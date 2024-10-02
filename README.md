@@ -1,1 +1,8 @@
 # Computer-Infrastructure
+
+The purpose of this repository is to demonstrate my skills and progress in the following areas:
+
+- Utilizing, configuring, and scripting within a command line interface environment.
+- Managing and transferring data and code through command line operations.
+- Comparing different software infrastructures and architectures.
+- Choosing the appropriate infrastructure for specific computational tasks.
