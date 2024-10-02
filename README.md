@@ -1,4 +1,4 @@
-# Assesment repository for the computer infrastructure module
+# Assessment repository for the computer infrastructure module
 
 The purpose of this repository is to demonstrate my skills and progress in the following areas:
 
