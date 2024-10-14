@@ -10,7 +10,7 @@ The purpose of this repository is to demonstrate my skills and progress in the f
 ## Getting started
 
 1. Repository clone to my local machine
-2. Creating subfolder: data -> timestamps & weather
+2. Creating directory structure: data -> timestamps & weather
                               
 
 
