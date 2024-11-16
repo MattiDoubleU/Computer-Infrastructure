@@ -1,4 +1,4 @@
-name: Python CI Workflow
+name: Weather Data Workflow
 
 on:
   push:
