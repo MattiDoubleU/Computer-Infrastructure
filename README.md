@@ -32,3 +32,4 @@ The purpose of this repository is to demonstrate my skills and progress in the f
 https://git-scm.com/book/en/v2/Git-Tools-Submodules
 https://stackoverflow.com/questions/61536466/pips-requirements-txt-best-practice
 https://stackoverflow.com/questions/44364916/how-to-open-run-yml-compose-file
+https://docs.github.com/en/actions/writing-workflows/quickstart
