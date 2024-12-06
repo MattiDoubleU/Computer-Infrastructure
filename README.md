@@ -18,13 +18,15 @@ The purpose of this repository is to demonstrate my skills and progress in the f
 - The project required a GitHub Actions Workflow, that is a folder called .github/workflows/ in relevant repository and inside
 - a .yml file called weather-data.yml for the project which will define the GitHub Actions workflow.  
                        
-## References 
+## References:
 https://git-scm.com/book/en/v2/Git-Tools-Submodules
 https://stackoverflow.com/questions/44364916/how-to-open-run-yml-compose-file
 https://docs.github.com/en/actions/writing-workflows/quickstart
 https://docs.github.com/en/actions/writing-workflows/workflow-syntax-for-github-actions
 https://crontab.guru/
 https://docs.github.com/en/actions/use-cases-and-examples/creating-an-example-workflow
+
+## Further Readings:
 
 Cooper, M., 2014. Advanced Bash Scripting Guide. March. Available at: https://tldp.org/LDP/abs/html/
 
