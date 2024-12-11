@@ -15,8 +15,8 @@ The purpose of this repository is to demonstrate my skills and progress in the f
 - Therefore a requirements.txt is not necessary or can be left blank.
 - Scripting within a command line environment can be useful where no GUI or Graphical User Interface is available such as servers for example or to automate certain tasks.
 - The project for this module was to automate weather.sh and provide a weather reading of the Athlone weather station every day at 10am saved as JSON file and committed to Github.
-- The project required a GitHub Actions Workflow, that is a folder called .github/workflows/ in relevant repository and inside
-- a .yml file called weather-data.yml for the project which will define the GitHub Actions workflow.  
+- The project required a GitHub Actions Workflow, that is a folder called .github/workflows/ in relevant repository and inside a
+- .yml file called weather-data.yml for the project which will define the GitHub Actions workflow.  
                        
 ## References:
 https://git-scm.com/book/en/v2/Git-Tools-Submodules
@@ -25,6 +25,7 @@ https://docs.github.com/en/actions/writing-workflows/quickstart
 https://docs.github.com/en/actions/writing-workflows/workflow-syntax-for-github-actions
 https://crontab.guru/
 https://docs.github.com/en/actions/use-cases-and-examples/creating-an-example-workflow
+https://docs.github.com/en/actions/writing-workflows/workflow-syntax-for-github-actions#onschedule
 
 ## Further Readings:
 

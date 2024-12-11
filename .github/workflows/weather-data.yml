@@ -2,7 +2,7 @@ name: Run Weather Script
 
 on:
   schedule:
-    - cron: '0 10 * * *' 
+    - cron: '15 12 * * *' 
   workflow_dispatch:
 
 permissions:
